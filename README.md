@@ -1,4 +1,4 @@
-# Ketamine-for-Refractory-Chronic-Migraine
+# Ketamine for Refractory Chronic Migraine
 
 
 ## Introduction to the project
